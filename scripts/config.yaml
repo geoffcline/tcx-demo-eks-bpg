@@ -1,0 +1,7 @@
+gcline:
+  AWS_PROFILE: gcline-Admin
+  apps:
+    bpg:
+      app_id: d1uiikpnb46qaz
+      repo_root: /home/gcline/workplace/bpg-eks/src/AmazonEKSBestPracticesDocs
+      build_directory: /home/gcline/workplace/bpg-eks/src/AmazonEKSBestPracticesDocs/build/server-root/eks/latest/best-practices
