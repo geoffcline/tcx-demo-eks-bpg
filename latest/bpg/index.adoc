@@ -41,8 +41,6 @@ AsciiDoc is a lightweight markup language used for writing documentation, articl
 * Images
 * Footnotes
 
-The language's flexibility and ease of use make it a preferred choice for creating structured and well-formatted content.
-
 
 ## What is GitHub?
 
